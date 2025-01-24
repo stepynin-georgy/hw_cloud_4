@@ -210,13 +210,13 @@ variable "vm_resources" {
 }
 ```
 
-![изображение]()
+![изображение](https://github.com/stepynin-georgy/hw_cloud_4/blob/main/img/Screenshot_24.png)
 
-![изображение]()
+![изображение](https://github.com/stepynin-georgy/hw_cloud_4/blob/main/img/Screenshot_25.png)
 
-![изображение]()
+![изображение](https://github.com/stepynin-georgy/hw_cloud_4/blob/main/img/Screenshot_26.png)
 
-![изображение]()
+![изображение](https://github.com/stepynin-georgy/hw_cloud_4/blob/main/img/Screenshot_27.png)
 
 2. Настроил с помощью Terraform кластер Kubernetes.
 
@@ -491,13 +491,13 @@ variable "vm_resources" {
 }
 ```
 
-![изображение]()
+![изображение](https://github.com/stepynin-georgy/hw_cloud_4/blob/main/img/Screenshot_28.png)
 
-![изображение]()
+![изображение](https://github.com/stepynin-georgy/hw_cloud_4/blob/main/img/Screenshot_29.png)
 
-![изображение]()
+![изображение](https://github.com/stepynin-georgy/hw_cloud_4/blob/main/img/Screenshot_31.png)
 
-![изображение]()
+![изображение](https://github.com/stepynin-georgy/hw_cloud_4/blob/main/img/Screenshot_32.png)
 
 Установил kubectl:
 
