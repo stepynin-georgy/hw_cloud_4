@@ -1,0 +1,8 @@
+#cloud-config
+users:
+ - name: user
+   groups: sudo
+   shell: /bin/bash
+   sudo: ['ALL=(ALL) NOPASSWD:ALL']
+   ssh-authorized-keys:
+      - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDVirm/fZojFfseB2R6PmHiDvVweDMO6E5zeBix/P1HWgw/PtJ+d66AVwVNQk9eaVRqNU4aBAWXSdlyZbBxRpDsUKdWBsAHhPOU25lklfcYhWjHbF/cQ8peKRkVxNEMiS8F/gJvcjIXia0hMTZpDVBS2PZ+h9KokYKulz4bAEYV7J/VipjsUMtpKUkRx/gttnjoXEv6J++9Cxy0iD8zEO1fBWTSvMCxTqAo873va9AI9ua3tivFC1VjvxXQIbKznuJ4k0mJY0Bg7fkoDVqskfjmu72FoflZ1rhuYnwAr+r1ugqLpeGFNtiem837KLppgmtpVuJN3PKbx6EPMnJ2uf89oMPcEhhHrhYOGmWEFvrPFqerDfCX+UXkvU+KK4tpUe0K0uw5/e7EsSqnZvoWx6tvSh7cPkWT4kIZXFPzsqvcSepI+H3hiv8CQuypr1aHYikcTM6AdeU3RQBq8FcjWOBSWaphuxIz95OwlNltG5Hg8aMf2Cj4wpXy3VFImJbvt/0= bls-soft\stepynin.g.a@WS010"
